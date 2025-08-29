@@ -47,7 +47,7 @@ Takımımız **TEKNOFEST 2026** yarışmasına katılım hedefiyle çalışmalar
 ```
 🟢 İlk Araştırma        ████████████████████ 100% ✅
 🟢 Tasarım              ████████████████████ 100% ✅  
-🟡 Aktif Geliştirme     ██████░░░░░░░░░░░░░░░  30% 🔄
+🟡 Aktif Geliştirme     ██████░░░░░░░░░░░░░░  30% 🔄
 ⚪ Entegrasyon          ░░░░░░░░░░░░░░░░░░░░   0% ⏳
 ⚪ TEKNOFEST 2026       ░░░░░░░░░░░░░░░░░░░░   0% 🎯
 ```
@@ -291,19 +291,6 @@ Açık kaynak projelerimize katkıda bulunmak istiyorsanız:
 🌐 Platform:            Multi-platform geliştirme
 📖 Açık Kaynak:         Topluluk odaklı yaklaşım
 ```
-
-## 📚 Dokümantasyon
-
-### 📖 Teknik Dokümantasyon
-- [Sistem Mimarisi](docs/architecture.md)
-- [API Dokümantasyonu](docs/api.md)
-- [Kurulum Rehberi](docs/installation.md)
-- [Geliştirici Kılavuzu](docs/developer-guide.md)
-
-### 🎓 Eğitim Materyalleri
-- [Görüntü İşleme Temelleri](docs/computer-vision-basics.md)
-- [ROS Kullanım Kılavuzu](docs/ros-guide.md)
-- [Elektronik Devre Tasarımı](docs/electronics-design.md)
 
 ## ⭐ Takımımızı Destekleyin
 
